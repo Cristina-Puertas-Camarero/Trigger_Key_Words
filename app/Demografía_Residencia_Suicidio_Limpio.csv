@@ -1,0 +1,721 @@
+comunidad,sexo,edad,total,edad_min,edad_max
+Total,ambos sexos,Todas las edades,4227.0,,
+Total,ambos sexos,Menores de 15 años,12.0,,
+Total,ambos sexos,De 15 a 29 años,341.0,15.0,29.0
+Total,ambos sexos,De 30 a 39 años,436.0,30.0,39.0
+Total,ambos sexos,De 40 a 44 años,350.0,40.0,44.0
+Total,ambos sexos,De 45 a 49 años,444.0,45.0,49.0
+Total,ambos sexos,De 50 a 54 años,486.0,50.0,54.0
+Total,ambos sexos,De 55 a 59 años,479.0,55.0,59.0
+Total,ambos sexos,De 60 a 64 años,385.0,60.0,64.0
+Total,ambos sexos,De 65 a 69 años,278.0,65.0,69.0
+Total,ambos sexos,De 70 a 74 años,275.0,70.0,74.0
+Total,ambos sexos,De 75 a 79 años,212.0,75.0,79.0
+Total,ambos sexos,De 80 a 84 años,216.0,80.0,84.0
+Total,ambos sexos,De 85 a 89 años,194.0,85.0,89.0
+Total,ambos sexos,De 90 a 94 años,94.0,90.0,94.0
+Total,ambos sexos,De 95 años y más,25.0,,
+Total,hombres,Todas las edades,3126.0,,
+Total,hombres,Menores de 15 años,9.0,,
+Total,hombres,De 15 a 29 años,224.0,15.0,29.0
+Total,hombres,De 30 a 39 años,336.0,30.0,39.0
+Total,hombres,De 40 a 44 años,273.0,40.0,44.0
+Total,hombres,De 45 a 49 años,332.0,45.0,49.0
+Total,hombres,De 50 a 54 años,352.0,50.0,54.0
+Total,hombres,De 55 a 59 años,354.0,55.0,59.0
+Total,hombres,De 60 a 64 años,297.0,60.0,64.0
+Total,hombres,De 65 a 69 años,197.0,65.0,69.0
+Total,hombres,De 70 a 74 años,188.0,70.0,74.0
+Total,hombres,De 75 a 79 años,162.0,75.0,79.0
+Total,hombres,De 80 a 84 años,155.0,80.0,84.0
+Total,hombres,De 85 a 89 años,159.0,85.0,89.0
+Total,hombres,De 90 a 94 años,72.0,90.0,94.0
+Total,hombres,De 95 años y más,16.0,,
+Total,mujeres,Todas las edades,1101.0,,
+Total,mujeres,Menores de 15 años,3.0,,
+Total,mujeres,De 15 a 29 años,117.0,15.0,29.0
+Total,mujeres,De 30 a 39 años,100.0,30.0,39.0
+Total,mujeres,De 40 a 44 años,77.0,40.0,44.0
+Total,mujeres,De 45 a 49 años,112.0,45.0,49.0
+Total,mujeres,De 50 a 54 años,134.0,50.0,54.0
+Total,mujeres,De 55 a 59 años,125.0,55.0,59.0
+Total,mujeres,De 60 a 64 años,88.0,60.0,64.0
+Total,mujeres,De 65 a 69 años,81.0,65.0,69.0
+Total,mujeres,De 70 a 74 años,87.0,70.0,74.0
+Total,mujeres,De 75 a 79 años,50.0,75.0,79.0
+Total,mujeres,De 80 a 84 años,61.0,80.0,84.0
+Total,mujeres,De 85 a 89 años,35.0,85.0,89.0
+Total,mujeres,De 90 a 94 años,22.0,90.0,94.0
+Total,mujeres,De 95 años y más,9.0,,
+Andalucía,ambos sexos,Todas las edades,830.0,,
+Andalucía,ambos sexos,Menores de 15 años,1.0,,
+Andalucía,ambos sexos,De 15 a 29 años,49.0,15.0,29.0
+Andalucía,ambos sexos,De 30 a 39 años,107.0,30.0,39.0
+Andalucía,ambos sexos,De 40 a 44 años,64.0,40.0,44.0
+Andalucía,ambos sexos,De 45 a 49 años,83.0,45.0,49.0
+Andalucía,ambos sexos,De 50 a 54 años,100.0,50.0,54.0
+Andalucía,ambos sexos,De 55 a 59 años,105.0,55.0,59.0
+Andalucía,ambos sexos,De 60 a 64 años,79.0,60.0,64.0
+Andalucía,ambos sexos,De 65 a 69 años,58.0,65.0,69.0
+Andalucía,ambos sexos,De 70 a 74 años,50.0,70.0,74.0
+Andalucía,ambos sexos,De 75 a 79 años,44.0,75.0,79.0
+Andalucía,ambos sexos,De 80 a 84 años,34.0,80.0,84.0
+Andalucía,ambos sexos,De 85 a 89 años,36.0,85.0,89.0
+Andalucía,ambos sexos,De 90 a 94 años,18.0,90.0,94.0
+Andalucía,ambos sexos,De 95 años y más,2.0,,
+Andalucía,hombres,Todas las edades,651.0,,
+Andalucía,hombres,Menores de 15 años,1.0,,
+Andalucía,hombres,De 15 a 29 años,36.0,15.0,29.0
+Andalucía,hombres,De 30 a 39 años,85.0,30.0,39.0
+Andalucía,hombres,De 40 a 44 años,51.0,40.0,44.0
+Andalucía,hombres,De 45 a 49 años,68.0,45.0,49.0
+Andalucía,hombres,De 50 a 54 años,74.0,50.0,54.0
+Andalucía,hombres,De 55 a 59 años,81.0,55.0,59.0
+Andalucía,hombres,De 60 a 64 años,68.0,60.0,64.0
+Andalucía,hombres,De 65 a 69 años,45.0,65.0,69.0
+Andalucía,hombres,De 70 a 74 años,33.0,70.0,74.0
+Andalucía,hombres,De 75 a 79 años,36.0,75.0,79.0
+Andalucía,hombres,De 80 a 84 años,27.0,80.0,84.0
+Andalucía,hombres,De 85 a 89 años,30.0,85.0,89.0
+Andalucía,hombres,De 90 a 94 años,14.0,90.0,94.0
+Andalucía,hombres,De 95 años y más,2.0,,
+Andalucía,mujeres,Todas las edades,179.0,,
+Andalucía,mujeres,Menores de 15 años,0.0,,
+Andalucía,mujeres,De 15 a 29 años,13.0,15.0,29.0
+Andalucía,mujeres,De 30 a 39 años,22.0,30.0,39.0
+Andalucía,mujeres,De 40 a 44 años,13.0,40.0,44.0
+Andalucía,mujeres,De 45 a 49 años,15.0,45.0,49.0
+Andalucía,mujeres,De 50 a 54 años,26.0,50.0,54.0
+Andalucía,mujeres,De 55 a 59 años,24.0,55.0,59.0
+Andalucía,mujeres,De 60 a 64 años,11.0,60.0,64.0
+Andalucía,mujeres,De 65 a 69 años,13.0,65.0,69.0
+Andalucía,mujeres,De 70 a 74 años,17.0,70.0,74.0
+Andalucía,mujeres,De 75 a 79 años,8.0,75.0,79.0
+Andalucía,mujeres,De 80 a 84 años,7.0,80.0,84.0
+Andalucía,mujeres,De 85 a 89 años,6.0,85.0,89.0
+Andalucía,mujeres,De 90 a 94 años,4.0,90.0,94.0
+Andalucía,mujeres,De 95 años y más,0.0,,
+Aragón,ambos sexos,Todas las edades,114.0,,
+Aragón,ambos sexos,Menores de 15 años,0.0,,
+Aragón,ambos sexos,De 15 a 29 años,17.0,15.0,29.0
+Aragón,ambos sexos,De 30 a 39 años,12.0,30.0,39.0
+Aragón,ambos sexos,De 40 a 44 años,7.0,40.0,44.0
+Aragón,ambos sexos,De 45 a 49 años,13.0,45.0,49.0
+Aragón,ambos sexos,De 50 a 54 años,12.0,50.0,54.0
+Aragón,ambos sexos,De 55 a 59 años,12.0,55.0,59.0
+Aragón,ambos sexos,De 60 a 64 años,9.0,60.0,64.0
+Aragón,ambos sexos,De 65 a 69 años,5.0,65.0,69.0
+Aragón,ambos sexos,De 70 a 74 años,8.0,70.0,74.0
+Aragón,ambos sexos,De 75 a 79 años,6.0,75.0,79.0
+Aragón,ambos sexos,De 80 a 84 años,4.0,80.0,84.0
+Aragón,ambos sexos,De 85 a 89 años,6.0,85.0,89.0
+Aragón,ambos sexos,De 90 a 94 años,2.0,90.0,94.0
+Aragón,ambos sexos,De 95 años y más,1.0,,
+Aragón,hombres,Todas las edades,86.0,,
+Aragón,hombres,Menores de 15 años,0.0,,
+Aragón,hombres,De 15 a 29 años,13.0,15.0,29.0
+Aragón,hombres,De 30 a 39 años,11.0,30.0,39.0
+Aragón,hombres,De 40 a 44 años,6.0,40.0,44.0
+Aragón,hombres,De 45 a 49 años,9.0,45.0,49.0
+Aragón,hombres,De 50 a 54 años,11.0,50.0,54.0
+Aragón,hombres,De 55 a 59 años,6.0,55.0,59.0
+Aragón,hombres,De 60 a 64 años,5.0,60.0,64.0
+Aragón,hombres,De 65 a 69 años,3.0,65.0,69.0
+Aragón,hombres,De 70 a 74 años,7.0,70.0,74.0
+Aragón,hombres,De 75 a 79 años,5.0,75.0,79.0
+Aragón,hombres,De 80 a 84 años,4.0,80.0,84.0
+Aragón,hombres,De 85 a 89 años,5.0,85.0,89.0
+Aragón,hombres,De 90 a 94 años,0.0,90.0,94.0
+Aragón,hombres,De 95 años y más,1.0,,
+Aragón,mujeres,Todas las edades,28.0,,
+Aragón,mujeres,Menores de 15 años,0.0,,
+Aragón,mujeres,De 15 a 29 años,4.0,15.0,29.0
+Aragón,mujeres,De 30 a 39 años,1.0,30.0,39.0
+Aragón,mujeres,De 40 a 44 años,1.0,40.0,44.0
+Aragón,mujeres,De 45 a 49 años,4.0,45.0,49.0
+Aragón,mujeres,De 50 a 54 años,1.0,50.0,54.0
+Aragón,mujeres,De 55 a 59 años,6.0,55.0,59.0
+Aragón,mujeres,De 60 a 64 años,4.0,60.0,64.0
+Aragón,mujeres,De 65 a 69 años,2.0,65.0,69.0
+Aragón,mujeres,De 70 a 74 años,1.0,70.0,74.0
+Aragón,mujeres,De 75 a 79 años,1.0,75.0,79.0
+Aragón,mujeres,De 80 a 84 años,0.0,80.0,84.0
+Aragón,mujeres,De 85 a 89 años,1.0,85.0,89.0
+Aragón,mujeres,De 90 a 94 años,2.0,90.0,94.0
+Aragón,mujeres,De 95 años y más,0.0,,
+Canarias,ambos sexos,Todas las edades,233.0,,
+Canarias,ambos sexos,Menores de 15 años,1.0,,
+Canarias,ambos sexos,De 15 a 29 años,19.0,15.0,29.0
+Canarias,ambos sexos,De 30 a 39 años,28.0,30.0,39.0
+Canarias,ambos sexos,De 40 a 44 años,22.0,40.0,44.0
+Canarias,ambos sexos,De 45 a 49 años,25.0,45.0,49.0
+Canarias,ambos sexos,De 50 a 54 años,37.0,50.0,54.0
+Canarias,ambos sexos,De 55 a 59 años,25.0,55.0,59.0
+Canarias,ambos sexos,De 60 a 64 años,17.0,60.0,64.0
+Canarias,ambos sexos,De 65 a 69 años,15.0,65.0,69.0
+Canarias,ambos sexos,De 70 a 74 años,16.0,70.0,74.0
+Canarias,ambos sexos,De 75 a 79 años,9.0,75.0,79.0
+Canarias,ambos sexos,De 80 a 84 años,10.0,80.0,84.0
+Canarias,ambos sexos,De 85 a 89 años,6.0,85.0,89.0
+Canarias,ambos sexos,De 90 a 94 años,3.0,90.0,94.0
+Canarias,ambos sexos,De 95 años y más,0.0,,
+Canarias,hombres,Todas las edades,180.0,,
+Canarias,hombres,Menores de 15 años,1.0,,
+Canarias,hombres,De 15 a 29 años,13.0,15.0,29.0
+Canarias,hombres,De 30 a 39 años,19.0,30.0,39.0
+Canarias,hombres,De 40 a 44 años,17.0,40.0,44.0
+Canarias,hombres,De 45 a 49 años,22.0,45.0,49.0
+Canarias,hombres,De 50 a 54 años,30.0,50.0,54.0
+Canarias,hombres,De 55 a 59 años,20.0,55.0,59.0
+Canarias,hombres,De 60 a 64 años,14.0,60.0,64.0
+Canarias,hombres,De 65 a 69 años,11.0,65.0,69.0
+Canarias,hombres,De 70 a 74 años,12.0,70.0,74.0
+Canarias,hombres,De 75 a 79 años,6.0,75.0,79.0
+Canarias,hombres,De 80 a 84 años,6.0,80.0,84.0
+Canarias,hombres,De 85 a 89 años,6.0,85.0,89.0
+Canarias,hombres,De 90 a 94 años,3.0,90.0,94.0
+Canarias,hombres,De 95 años y más,0.0,,
+Canarias,mujeres,Todas las edades,53.0,,
+Canarias,mujeres,Menores de 15 años,0.0,,
+Canarias,mujeres,De 15 a 29 años,6.0,15.0,29.0
+Canarias,mujeres,De 30 a 39 años,9.0,30.0,39.0
+Canarias,mujeres,De 40 a 44 años,5.0,40.0,44.0
+Canarias,mujeres,De 45 a 49 años,3.0,45.0,49.0
+Canarias,mujeres,De 50 a 54 años,7.0,50.0,54.0
+Canarias,mujeres,De 55 a 59 años,5.0,55.0,59.0
+Canarias,mujeres,De 60 a 64 años,3.0,60.0,64.0
+Canarias,mujeres,De 65 a 69 años,4.0,65.0,69.0
+Canarias,mujeres,De 70 a 74 años,4.0,70.0,74.0
+Canarias,mujeres,De 75 a 79 años,3.0,75.0,79.0
+Canarias,mujeres,De 80 a 84 años,4.0,80.0,84.0
+Canarias,mujeres,De 85 a 89 años,0.0,85.0,89.0
+Canarias,mujeres,De 90 a 94 años,0.0,90.0,94.0
+Canarias,mujeres,De 95 años y más,0.0,,
+Cantabria,ambos sexos,Todas las edades,59.0,,
+Cantabria,ambos sexos,Menores de 15 años,0.0,,
+Cantabria,ambos sexos,De 15 a 29 años,6.0,15.0,29.0
+Cantabria,ambos sexos,De 30 a 39 años,2.0,30.0,39.0
+Cantabria,ambos sexos,De 40 a 44 años,3.0,40.0,44.0
+Cantabria,ambos sexos,De 45 a 49 años,8.0,45.0,49.0
+Cantabria,ambos sexos,De 50 a 54 años,8.0,50.0,54.0
+Cantabria,ambos sexos,De 55 a 59 años,4.0,55.0,59.0
+Cantabria,ambos sexos,De 60 a 64 años,5.0,60.0,64.0
+Cantabria,ambos sexos,De 65 a 69 años,4.0,65.0,69.0
+Cantabria,ambos sexos,De 70 a 74 años,7.0,70.0,74.0
+Cantabria,ambos sexos,De 75 a 79 años,4.0,75.0,79.0
+Cantabria,ambos sexos,De 80 a 84 años,4.0,80.0,84.0
+Cantabria,ambos sexos,De 85 a 89 años,2.0,85.0,89.0
+Cantabria,ambos sexos,De 90 a 94 años,2.0,90.0,94.0
+Cantabria,ambos sexos,De 95 años y más,0.0,,
+Cantabria,hombres,Todas las edades,39.0,,
+Cantabria,hombres,Menores de 15 años,0.0,,
+Cantabria,hombres,De 15 a 29 años,2.0,15.0,29.0
+Cantabria,hombres,De 30 a 39 años,1.0,30.0,39.0
+Cantabria,hombres,De 40 a 44 años,2.0,40.0,44.0
+Cantabria,hombres,De 45 a 49 años,7.0,45.0,49.0
+Cantabria,hombres,De 50 a 54 años,4.0,50.0,54.0
+Cantabria,hombres,De 55 a 59 años,3.0,55.0,59.0
+Cantabria,hombres,De 60 a 64 años,5.0,60.0,64.0
+Cantabria,hombres,De 65 a 69 años,3.0,65.0,69.0
+Cantabria,hombres,De 70 a 74 años,7.0,70.0,74.0
+Cantabria,hombres,De 75 a 79 años,1.0,75.0,79.0
+Cantabria,hombres,De 80 a 84 años,2.0,80.0,84.0
+Cantabria,hombres,De 85 a 89 años,1.0,85.0,89.0
+Cantabria,hombres,De 90 a 94 años,1.0,90.0,94.0
+Cantabria,hombres,De 95 años y más,0.0,,
+Cantabria,mujeres,Todas las edades,20.0,,
+Cantabria,mujeres,Menores de 15 años,0.0,,
+Cantabria,mujeres,De 15 a 29 años,4.0,15.0,29.0
+Cantabria,mujeres,De 30 a 39 años,1.0,30.0,39.0
+Cantabria,mujeres,De 40 a 44 años,1.0,40.0,44.0
+Cantabria,mujeres,De 45 a 49 años,1.0,45.0,49.0
+Cantabria,mujeres,De 50 a 54 años,4.0,50.0,54.0
+Cantabria,mujeres,De 55 a 59 años,1.0,55.0,59.0
+Cantabria,mujeres,De 60 a 64 años,0.0,60.0,64.0
+Cantabria,mujeres,De 65 a 69 años,1.0,65.0,69.0
+Cantabria,mujeres,De 70 a 74 años,0.0,70.0,74.0
+Cantabria,mujeres,De 75 a 79 años,3.0,75.0,79.0
+Cantabria,mujeres,De 80 a 84 años,2.0,80.0,84.0
+Cantabria,mujeres,De 85 a 89 años,1.0,85.0,89.0
+Cantabria,mujeres,De 90 a 94 años,1.0,90.0,94.0
+Cantabria,mujeres,De 95 años y más,0.0,,
+Castilla y León,ambos sexos,Todas las edades,242.0,,
+Castilla y León,ambos sexos,Menores de 15 años,0.0,,
+Castilla y León,ambos sexos,De 15 a 29 años,17.0,15.0,29.0
+Castilla y León,ambos sexos,De 30 a 39 años,19.0,30.0,39.0
+Castilla y León,ambos sexos,De 40 a 44 años,19.0,40.0,44.0
+Castilla y León,ambos sexos,De 45 a 49 años,21.0,45.0,49.0
+Castilla y León,ambos sexos,De 50 a 54 años,20.0,50.0,54.0
+Castilla y León,ambos sexos,De 55 a 59 años,26.0,55.0,59.0
+Castilla y León,ambos sexos,De 60 a 64 años,19.0,60.0,64.0
+Castilla y León,ambos sexos,De 65 a 69 años,18.0,65.0,69.0
+Castilla y León,ambos sexos,De 70 a 74 años,18.0,70.0,74.0
+Castilla y León,ambos sexos,De 75 a 79 años,20.0,75.0,79.0
+Castilla y León,ambos sexos,De 80 a 84 años,16.0,80.0,84.0
+Castilla y León,ambos sexos,De 85 a 89 años,16.0,85.0,89.0
+Castilla y León,ambos sexos,De 90 a 94 años,10.0,90.0,94.0
+Castilla y León,ambos sexos,De 95 años y más,3.0,,
+Castilla y León,hombres,Todas las edades,179.0,,
+Castilla y León,hombres,Menores de 15 años,0.0,,
+Castilla y León,hombres,De 15 a 29 años,13.0,15.0,29.0
+Castilla y León,hombres,De 30 a 39 años,14.0,30.0,39.0
+Castilla y León,hombres,De 40 a 44 años,14.0,40.0,44.0
+Castilla y León,hombres,De 45 a 49 años,16.0,45.0,49.0
+Castilla y León,hombres,De 50 a 54 años,10.0,50.0,54.0
+Castilla y León,hombres,De 55 a 59 años,23.0,55.0,59.0
+Castilla y León,hombres,De 60 a 64 años,15.0,60.0,64.0
+Castilla y León,hombres,De 65 a 69 años,13.0,65.0,69.0
+Castilla y León,hombres,De 70 a 74 años,12.0,70.0,74.0
+Castilla y León,hombres,De 75 a 79 años,16.0,75.0,79.0
+Castilla y León,hombres,De 80 a 84 años,10.0,80.0,84.0
+Castilla y León,hombres,De 85 a 89 años,13.0,85.0,89.0
+Castilla y León,hombres,De 90 a 94 años,8.0,90.0,94.0
+Castilla y León,hombres,De 95 años y más,2.0,,
+Castilla y León,mujeres,Todas las edades,63.0,,
+Castilla y León,mujeres,Menores de 15 años,0.0,,
+Castilla y León,mujeres,De 15 a 29 años,4.0,15.0,29.0
+Castilla y León,mujeres,De 30 a 39 años,5.0,30.0,39.0
+Castilla y León,mujeres,De 40 a 44 años,5.0,40.0,44.0
+Castilla y León,mujeres,De 45 a 49 años,5.0,45.0,49.0
+Castilla y León,mujeres,De 50 a 54 años,10.0,50.0,54.0
+Castilla y León,mujeres,De 55 a 59 años,3.0,55.0,59.0
+Castilla y León,mujeres,De 60 a 64 años,4.0,60.0,64.0
+Castilla y León,mujeres,De 65 a 69 años,5.0,65.0,69.0
+Castilla y León,mujeres,De 70 a 74 años,6.0,70.0,74.0
+Castilla y León,mujeres,De 75 a 79 años,4.0,75.0,79.0
+Castilla y León,mujeres,De 80 a 84 años,6.0,80.0,84.0
+Castilla y León,mujeres,De 85 a 89 años,3.0,85.0,89.0
+Castilla y León,mujeres,De 90 a 94 años,2.0,90.0,94.0
+Castilla y León,mujeres,De 95 años y más,1.0,,
+Castilla-La Mancha,ambos sexos,Todas las edades,184.0,,
+Castilla-La Mancha,ambos sexos,Menores de 15 años,0.0,,
+Castilla-La Mancha,ambos sexos,De 15 a 29 años,17.0,15.0,29.0
+Castilla-La Mancha,ambos sexos,De 30 a 39 años,17.0,30.0,39.0
+Castilla-La Mancha,ambos sexos,De 40 a 44 años,18.0,40.0,44.0
+Castilla-La Mancha,ambos sexos,De 45 a 49 años,19.0,45.0,49.0
+Castilla-La Mancha,ambos sexos,De 50 a 54 años,22.0,50.0,54.0
+Castilla-La Mancha,ambos sexos,De 55 a 59 años,23.0,55.0,59.0
+Castilla-La Mancha,ambos sexos,De 60 a 64 años,15.0,60.0,64.0
+Castilla-La Mancha,ambos sexos,De 65 a 69 años,13.0,65.0,69.0
+Castilla-La Mancha,ambos sexos,De 70 a 74 años,11.0,70.0,74.0
+Castilla-La Mancha,ambos sexos,De 75 a 79 años,9.0,75.0,79.0
+Castilla-La Mancha,ambos sexos,De 80 a 84 años,6.0,80.0,84.0
+Castilla-La Mancha,ambos sexos,De 85 a 89 años,12.0,85.0,89.0
+Castilla-La Mancha,ambos sexos,De 90 a 94 años,2.0,90.0,94.0
+Castilla-La Mancha,ambos sexos,De 95 años y más,0.0,,
+Castilla-La Mancha,hombres,Todas las edades,147.0,,
+Castilla-La Mancha,hombres,Menores de 15 años,0.0,,
+Castilla-La Mancha,hombres,De 15 a 29 años,12.0,15.0,29.0
+Castilla-La Mancha,hombres,De 30 a 39 años,12.0,30.0,39.0
+Castilla-La Mancha,hombres,De 40 a 44 años,14.0,40.0,44.0
+Castilla-La Mancha,hombres,De 45 a 49 años,12.0,45.0,49.0
+Castilla-La Mancha,hombres,De 50 a 54 años,19.0,50.0,54.0
+Castilla-La Mancha,hombres,De 55 a 59 años,20.0,55.0,59.0
+Castilla-La Mancha,hombres,De 60 a 64 años,15.0,60.0,64.0
+Castilla-La Mancha,hombres,De 65 a 69 años,10.0,65.0,69.0
+Castilla-La Mancha,hombres,De 70 a 74 años,10.0,70.0,74.0
+Castilla-La Mancha,hombres,De 75 a 79 años,9.0,75.0,79.0
+Castilla-La Mancha,hombres,De 80 a 84 años,3.0,80.0,84.0
+Castilla-La Mancha,hombres,De 85 a 89 años,10.0,85.0,89.0
+Castilla-La Mancha,hombres,De 90 a 94 años,1.0,90.0,94.0
+Castilla-La Mancha,hombres,De 95 años y más,0.0,,
+Castilla-La Mancha,mujeres,Todas las edades,37.0,,
+Castilla-La Mancha,mujeres,Menores de 15 años,0.0,,
+Castilla-La Mancha,mujeres,De 15 a 29 años,5.0,15.0,29.0
+Castilla-La Mancha,mujeres,De 30 a 39 años,5.0,30.0,39.0
+Castilla-La Mancha,mujeres,De 40 a 44 años,4.0,40.0,44.0
+Castilla-La Mancha,mujeres,De 45 a 49 años,7.0,45.0,49.0
+Castilla-La Mancha,mujeres,De 50 a 54 años,3.0,50.0,54.0
+Castilla-La Mancha,mujeres,De 55 a 59 años,3.0,55.0,59.0
+Castilla-La Mancha,mujeres,De 60 a 64 años,0.0,60.0,64.0
+Castilla-La Mancha,mujeres,De 65 a 69 años,3.0,65.0,69.0
+Castilla-La Mancha,mujeres,De 70 a 74 años,1.0,70.0,74.0
+Castilla-La Mancha,mujeres,De 75 a 79 años,0.0,75.0,79.0
+Castilla-La Mancha,mujeres,De 80 a 84 años,3.0,80.0,84.0
+Castilla-La Mancha,mujeres,De 85 a 89 años,2.0,85.0,89.0
+Castilla-La Mancha,mujeres,De 90 a 94 años,1.0,90.0,94.0
+Castilla-La Mancha,mujeres,De 95 años y más,0.0,,
+Cataluña,ambos sexos,Todas las edades,614.0,,
+Cataluña,ambos sexos,Menores de 15 años,4.0,,
+Cataluña,ambos sexos,De 15 a 29 años,52.0,15.0,29.0
+Cataluña,ambos sexos,De 30 a 39 años,69.0,30.0,39.0
+Cataluña,ambos sexos,De 40 a 44 años,50.0,40.0,44.0
+Cataluña,ambos sexos,De 45 a 49 años,65.0,45.0,49.0
+Cataluña,ambos sexos,De 50 a 54 años,69.0,50.0,54.0
+Cataluña,ambos sexos,De 55 a 59 años,67.0,55.0,59.0
+Cataluña,ambos sexos,De 60 a 64 años,55.0,60.0,64.0
+Cataluña,ambos sexos,De 65 a 69 años,32.0,65.0,69.0
+Cataluña,ambos sexos,De 70 a 74 años,48.0,70.0,74.0
+Cataluña,ambos sexos,De 75 a 79 años,26.0,75.0,79.0
+Cataluña,ambos sexos,De 80 a 84 años,36.0,80.0,84.0
+Cataluña,ambos sexos,De 85 a 89 años,22.0,85.0,89.0
+Cataluña,ambos sexos,De 90 a 94 años,14.0,90.0,94.0
+Cataluña,ambos sexos,De 95 años y más,5.0,,
+Cataluña,hombres,Todas las edades,440.0,,
+Cataluña,hombres,Menores de 15 años,4.0,,
+Cataluña,hombres,De 15 a 29 años,34.0,15.0,29.0
+Cataluña,hombres,De 30 a 39 años,48.0,30.0,39.0
+Cataluña,hombres,De 40 a 44 años,42.0,40.0,44.0
+Cataluña,hombres,De 45 a 49 años,49.0,45.0,49.0
+Cataluña,hombres,De 50 a 54 años,46.0,50.0,54.0
+Cataluña,hombres,De 55 a 59 años,47.0,55.0,59.0
+Cataluña,hombres,De 60 a 64 años,36.0,60.0,64.0
+Cataluña,hombres,De 65 a 69 años,19.0,65.0,69.0
+Cataluña,hombres,De 70 a 74 años,35.0,70.0,74.0
+Cataluña,hombres,De 75 a 79 años,16.0,75.0,79.0
+Cataluña,hombres,De 80 a 84 años,29.0,80.0,84.0
+Cataluña,hombres,De 85 a 89 años,20.0,85.0,89.0
+Cataluña,hombres,De 90 a 94 años,12.0,90.0,94.0
+Cataluña,hombres,De 95 años y más,3.0,,
+Cataluña,mujeres,Todas las edades,174.0,,
+Cataluña,mujeres,Menores de 15 años,0.0,,
+Cataluña,mujeres,De 15 a 29 años,18.0,15.0,29.0
+Cataluña,mujeres,De 30 a 39 años,21.0,30.0,39.0
+Cataluña,mujeres,De 40 a 44 años,8.0,40.0,44.0
+Cataluña,mujeres,De 45 a 49 años,16.0,45.0,49.0
+Cataluña,mujeres,De 50 a 54 años,23.0,50.0,54.0
+Cataluña,mujeres,De 55 a 59 años,20.0,55.0,59.0
+Cataluña,mujeres,De 60 a 64 años,19.0,60.0,64.0
+Cataluña,mujeres,De 65 a 69 años,13.0,65.0,69.0
+Cataluña,mujeres,De 70 a 74 años,13.0,70.0,74.0
+Cataluña,mujeres,De 75 a 79 años,10.0,75.0,79.0
+Cataluña,mujeres,De 80 a 84 años,7.0,80.0,84.0
+Cataluña,mujeres,De 85 a 89 años,2.0,85.0,89.0
+Cataluña,mujeres,De 90 a 94 años,2.0,90.0,94.0
+Cataluña,mujeres,De 95 años y más,2.0,,
+Comunitat Valenciana,ambos sexos,Todas las edades,445.0,,
+Comunitat Valenciana,ambos sexos,Menores de 15 años,2.0,,
+Comunitat Valenciana,ambos sexos,De 15 a 29 años,36.0,15.0,29.0
+Comunitat Valenciana,ambos sexos,De 30 a 39 años,35.0,30.0,39.0
+Comunitat Valenciana,ambos sexos,De 40 a 44 años,40.0,40.0,44.0
+Comunitat Valenciana,ambos sexos,De 45 a 49 años,57.0,45.0,49.0
+Comunitat Valenciana,ambos sexos,De 50 a 54 años,55.0,50.0,54.0
+Comunitat Valenciana,ambos sexos,De 55 a 59 años,59.0,55.0,59.0
+Comunitat Valenciana,ambos sexos,De 60 a 64 años,46.0,60.0,64.0
+Comunitat Valenciana,ambos sexos,De 65 a 69 años,23.0,65.0,69.0
+Comunitat Valenciana,ambos sexos,De 70 a 74 años,28.0,70.0,74.0
+Comunitat Valenciana,ambos sexos,De 75 a 79 años,14.0,75.0,79.0
+Comunitat Valenciana,ambos sexos,De 80 a 84 años,19.0,80.0,84.0
+Comunitat Valenciana,ambos sexos,De 85 a 89 años,22.0,85.0,89.0
+Comunitat Valenciana,ambos sexos,De 90 a 94 años,7.0,90.0,94.0
+Comunitat Valenciana,ambos sexos,De 95 años y más,2.0,,
+Comunitat Valenciana,hombres,Todas las edades,328.0,,
+Comunitat Valenciana,hombres,Menores de 15 años,1.0,,
+Comunitat Valenciana,hombres,De 15 a 29 años,25.0,15.0,29.0
+Comunitat Valenciana,hombres,De 30 a 39 años,25.0,30.0,39.0
+Comunitat Valenciana,hombres,De 40 a 44 años,32.0,40.0,44.0
+Comunitat Valenciana,hombres,De 45 a 49 años,41.0,45.0,49.0
+Comunitat Valenciana,hombres,De 50 a 54 años,41.0,50.0,54.0
+Comunitat Valenciana,hombres,De 55 a 59 años,46.0,55.0,59.0
+Comunitat Valenciana,hombres,De 60 a 64 años,33.0,60.0,64.0
+Comunitat Valenciana,hombres,De 65 a 69 años,17.0,65.0,69.0
+Comunitat Valenciana,hombres,De 70 a 74 años,18.0,70.0,74.0
+Comunitat Valenciana,hombres,De 75 a 79 años,11.0,75.0,79.0
+Comunitat Valenciana,hombres,De 80 a 84 años,13.0,80.0,84.0
+Comunitat Valenciana,hombres,De 85 a 89 años,17.0,85.0,89.0
+Comunitat Valenciana,hombres,De 90 a 94 años,6.0,90.0,94.0
+Comunitat Valenciana,hombres,De 95 años y más,2.0,,
+Comunitat Valenciana,mujeres,Todas las edades,117.0,,
+Comunitat Valenciana,mujeres,Menores de 15 años,1.0,,
+Comunitat Valenciana,mujeres,De 15 a 29 años,11.0,15.0,29.0
+Comunitat Valenciana,mujeres,De 30 a 39 años,10.0,30.0,39.0
+Comunitat Valenciana,mujeres,De 40 a 44 años,8.0,40.0,44.0
+Comunitat Valenciana,mujeres,De 45 a 49 años,16.0,45.0,49.0
+Comunitat Valenciana,mujeres,De 50 a 54 años,14.0,50.0,54.0
+Comunitat Valenciana,mujeres,De 55 a 59 años,13.0,55.0,59.0
+Comunitat Valenciana,mujeres,De 60 a 64 años,13.0,60.0,64.0
+Comunitat Valenciana,mujeres,De 65 a 69 años,6.0,65.0,69.0
+Comunitat Valenciana,mujeres,De 70 a 74 años,10.0,70.0,74.0
+Comunitat Valenciana,mujeres,De 75 a 79 años,3.0,75.0,79.0
+Comunitat Valenciana,mujeres,De 80 a 84 años,6.0,80.0,84.0
+Comunitat Valenciana,mujeres,De 85 a 89 años,5.0,85.0,89.0
+Comunitat Valenciana,mujeres,De 90 a 94 años,1.0,90.0,94.0
+Comunitat Valenciana,mujeres,De 95 años y más,0.0,,
+Extremadura,ambos sexos,Todas las edades,95.0,,
+Extremadura,ambos sexos,Menores de 15 años,0.0,,
+Extremadura,ambos sexos,De 15 a 29 años,3.0,15.0,29.0
+Extremadura,ambos sexos,De 30 a 39 años,9.0,30.0,39.0
+Extremadura,ambos sexos,De 40 a 44 años,9.0,40.0,44.0
+Extremadura,ambos sexos,De 45 a 49 años,13.0,45.0,49.0
+Extremadura,ambos sexos,De 50 a 54 años,7.0,50.0,54.0
+Extremadura,ambos sexos,De 55 a 59 años,6.0,55.0,59.0
+Extremadura,ambos sexos,De 60 a 64 años,11.0,60.0,64.0
+Extremadura,ambos sexos,De 65 a 69 años,13.0,65.0,69.0
+Extremadura,ambos sexos,De 70 a 74 años,6.0,70.0,74.0
+Extremadura,ambos sexos,De 75 a 79 años,7.0,75.0,79.0
+Extremadura,ambos sexos,De 80 a 84 años,5.0,80.0,84.0
+Extremadura,ambos sexos,De 85 a 89 años,4.0,85.0,89.0
+Extremadura,ambos sexos,De 90 a 94 años,2.0,90.0,94.0
+Extremadura,ambos sexos,De 95 años y más,0.0,,
+Extremadura,hombres,Todas las edades,74.0,,
+Extremadura,hombres,Menores de 15 años,0.0,,
+Extremadura,hombres,De 15 a 29 años,2.0,15.0,29.0
+Extremadura,hombres,De 30 a 39 años,8.0,30.0,39.0
+Extremadura,hombres,De 40 a 44 años,7.0,40.0,44.0
+Extremadura,hombres,De 45 a 49 años,9.0,45.0,49.0
+Extremadura,hombres,De 50 a 54 años,5.0,50.0,54.0
+Extremadura,hombres,De 55 a 59 años,5.0,55.0,59.0
+Extremadura,hombres,De 60 a 64 años,9.0,60.0,64.0
+Extremadura,hombres,De 65 a 69 años,7.0,65.0,69.0
+Extremadura,hombres,De 70 a 74 años,6.0,70.0,74.0
+Extremadura,hombres,De 75 a 79 años,7.0,75.0,79.0
+Extremadura,hombres,De 80 a 84 años,4.0,80.0,84.0
+Extremadura,hombres,De 85 a 89 años,3.0,85.0,89.0
+Extremadura,hombres,De 90 a 94 años,2.0,90.0,94.0
+Extremadura,hombres,De 95 años y más,0.0,,
+Extremadura,mujeres,Todas las edades,21.0,,
+Extremadura,mujeres,Menores de 15 años,0.0,,
+Extremadura,mujeres,De 15 a 29 años,1.0,15.0,29.0
+Extremadura,mujeres,De 30 a 39 años,1.0,30.0,39.0
+Extremadura,mujeres,De 40 a 44 años,2.0,40.0,44.0
+Extremadura,mujeres,De 45 a 49 años,4.0,45.0,49.0
+Extremadura,mujeres,De 50 a 54 años,2.0,50.0,54.0
+Extremadura,mujeres,De 55 a 59 años,1.0,55.0,59.0
+Extremadura,mujeres,De 60 a 64 años,2.0,60.0,64.0
+Extremadura,mujeres,De 65 a 69 años,6.0,65.0,69.0
+Extremadura,mujeres,De 70 a 74 años,0.0,70.0,74.0
+Extremadura,mujeres,De 75 a 79 años,0.0,75.0,79.0
+Extremadura,mujeres,De 80 a 84 años,1.0,80.0,84.0
+Extremadura,mujeres,De 85 a 89 años,1.0,85.0,89.0
+Extremadura,mujeres,De 90 a 94 años,0.0,90.0,94.0
+Extremadura,mujeres,De 95 años y más,0.0,,
+Galicia,ambos sexos,Todas las edades,328.0,,
+Galicia,ambos sexos,Menores de 15 años,2.0,,
+Galicia,ambos sexos,De 15 a 29 años,15.0,15.0,29.0
+Galicia,ambos sexos,De 30 a 39 años,26.0,30.0,39.0
+Galicia,ambos sexos,De 40 a 44 años,20.0,40.0,44.0
+Galicia,ambos sexos,De 45 a 49 años,35.0,45.0,49.0
+Galicia,ambos sexos,De 50 a 54 años,41.0,50.0,54.0
+Galicia,ambos sexos,De 55 a 59 años,27.0,55.0,59.0
+Galicia,ambos sexos,De 60 a 64 años,34.0,60.0,64.0
+Galicia,ambos sexos,De 65 a 69 años,30.0,65.0,69.0
+Galicia,ambos sexos,De 70 a 74 años,17.0,70.0,74.0
+Galicia,ambos sexos,De 75 a 79 años,19.0,75.0,79.0
+Galicia,ambos sexos,De 80 a 84 años,22.0,80.0,84.0
+Galicia,ambos sexos,De 85 a 89 años,25.0,85.0,89.0
+Galicia,ambos sexos,De 90 a 94 años,11.0,90.0,94.0
+Galicia,ambos sexos,De 95 años y más,4.0,,
+Galicia,hombres,Todas las edades,236.0,,
+Galicia,hombres,Menores de 15 años,1.0,,
+Galicia,hombres,De 15 a 29 años,8.0,15.0,29.0
+Galicia,hombres,De 30 a 39 años,24.0,30.0,39.0
+Galicia,hombres,De 40 a 44 años,15.0,40.0,44.0
+Galicia,hombres,De 45 a 49 años,26.0,45.0,49.0
+Galicia,hombres,De 50 a 54 años,26.0,50.0,54.0
+Galicia,hombres,De 55 a 59 años,17.0,55.0,59.0
+Galicia,hombres,De 60 a 64 años,24.0,60.0,64.0
+Galicia,hombres,De 65 a 69 años,25.0,65.0,69.0
+Galicia,hombres,De 70 a 74 años,11.0,70.0,74.0
+Galicia,hombres,De 75 a 79 años,15.0,75.0,79.0
+Galicia,hombres,De 80 a 84 años,15.0,80.0,84.0
+Galicia,hombres,De 85 a 89 años,19.0,85.0,89.0
+Galicia,hombres,De 90 a 94 años,9.0,90.0,94.0
+Galicia,hombres,De 95 años y más,1.0,,
+Galicia,mujeres,Todas las edades,92.0,,
+Galicia,mujeres,Menores de 15 años,1.0,,
+Galicia,mujeres,De 15 a 29 años,7.0,15.0,29.0
+Galicia,mujeres,De 30 a 39 años,2.0,30.0,39.0
+Galicia,mujeres,De 40 a 44 años,5.0,40.0,44.0
+Galicia,mujeres,De 45 a 49 años,9.0,45.0,49.0
+Galicia,mujeres,De 50 a 54 años,15.0,50.0,54.0
+Galicia,mujeres,De 55 a 59 años,10.0,55.0,59.0
+Galicia,mujeres,De 60 a 64 años,10.0,60.0,64.0
+Galicia,mujeres,De 65 a 69 años,5.0,65.0,69.0
+Galicia,mujeres,De 70 a 74 años,6.0,70.0,74.0
+Galicia,mujeres,De 75 a 79 años,4.0,75.0,79.0
+Galicia,mujeres,De 80 a 84 años,7.0,80.0,84.0
+Galicia,mujeres,De 85 a 89 años,6.0,85.0,89.0
+Galicia,mujeres,De 90 a 94 años,2.0,90.0,94.0
+Galicia,mujeres,De 95 años y más,3.0,,
+País Vasco,ambos sexos,Todas las edades,174.0,,
+País Vasco,ambos sexos,Menores de 15 años,1.0,,
+País Vasco,ambos sexos,De 15 a 29 años,14.0,15.0,29.0
+País Vasco,ambos sexos,De 30 a 39 años,12.0,30.0,39.0
+País Vasco,ambos sexos,De 40 a 44 años,13.0,40.0,44.0
+País Vasco,ambos sexos,De 45 a 49 años,18.0,45.0,49.0
+País Vasco,ambos sexos,De 50 a 54 años,15.0,50.0,54.0
+País Vasco,ambos sexos,De 55 a 59 años,19.0,55.0,59.0
+País Vasco,ambos sexos,De 60 a 64 años,20.0,60.0,64.0
+País Vasco,ambos sexos,De 65 a 69 años,14.0,65.0,69.0
+País Vasco,ambos sexos,De 70 a 74 años,8.0,70.0,74.0
+País Vasco,ambos sexos,De 75 a 79 años,8.0,75.0,79.0
+País Vasco,ambos sexos,De 80 a 84 años,15.0,80.0,84.0
+País Vasco,ambos sexos,De 85 a 89 años,12.0,85.0,89.0
+País Vasco,ambos sexos,De 90 a 94 años,4.0,90.0,94.0
+País Vasco,ambos sexos,De 95 años y más,1.0,,
+País Vasco,hombres,Todas las edades,124.0,,
+País Vasco,hombres,Menores de 15 años,1.0,,
+País Vasco,hombres,De 15 a 29 años,9.0,15.0,29.0
+País Vasco,hombres,De 30 a 39 años,9.0,30.0,39.0
+País Vasco,hombres,De 40 a 44 años,11.0,40.0,44.0
+País Vasco,hombres,De 45 a 49 años,12.0,45.0,49.0
+País Vasco,hombres,De 50 a 54 años,11.0,50.0,54.0
+País Vasco,hombres,De 55 a 59 años,14.0,55.0,59.0
+País Vasco,hombres,De 60 a 64 años,15.0,60.0,64.0
+País Vasco,hombres,De 65 a 69 años,7.0,65.0,69.0
+País Vasco,hombres,De 70 a 74 años,4.0,70.0,74.0
+País Vasco,hombres,De 75 a 79 años,4.0,75.0,79.0
+País Vasco,hombres,De 80 a 84 años,12.0,80.0,84.0
+País Vasco,hombres,De 85 a 89 años,12.0,85.0,89.0
+País Vasco,hombres,De 90 a 94 años,3.0,90.0,94.0
+País Vasco,hombres,De 95 años y más,0.0,,
+País Vasco,mujeres,Todas las edades,50.0,,
+País Vasco,mujeres,Menores de 15 años,0.0,,
+País Vasco,mujeres,De 15 a 29 años,5.0,15.0,29.0
+País Vasco,mujeres,De 30 a 39 años,3.0,30.0,39.0
+País Vasco,mujeres,De 40 a 44 años,2.0,40.0,44.0
+País Vasco,mujeres,De 45 a 49 años,6.0,45.0,49.0
+País Vasco,mujeres,De 50 a 54 años,4.0,50.0,54.0
+País Vasco,mujeres,De 55 a 59 años,5.0,55.0,59.0
+País Vasco,mujeres,De 60 a 64 años,5.0,60.0,64.0
+País Vasco,mujeres,De 65 a 69 años,7.0,65.0,69.0
+País Vasco,mujeres,De 70 a 74 años,4.0,70.0,74.0
+País Vasco,mujeres,De 75 a 79 años,4.0,75.0,79.0
+País Vasco,mujeres,De 80 a 84 años,3.0,80.0,84.0
+País Vasco,mujeres,De 85 a 89 años,0.0,85.0,89.0
+País Vasco,mujeres,De 90 a 94 años,1.0,90.0,94.0
+País Vasco,mujeres,De 95 años y más,1.0,,
+Ceuta,ambos sexos,Todas las edades,2.0,,
+Ceuta,ambos sexos,Menores de 15 años,0.0,,
+Ceuta,ambos sexos,De 15 a 29 años,0.0,15.0,29.0
+Ceuta,ambos sexos,De 30 a 39 años,0.0,30.0,39.0
+Ceuta,ambos sexos,De 40 a 44 años,0.0,40.0,44.0
+Ceuta,ambos sexos,De 45 a 49 años,0.0,45.0,49.0
+Ceuta,ambos sexos,De 50 a 54 años,0.0,50.0,54.0
+Ceuta,ambos sexos,De 55 a 59 años,2.0,55.0,59.0
+Ceuta,ambos sexos,De 60 a 64 años,0.0,60.0,64.0
+Ceuta,ambos sexos,De 65 a 69 años,0.0,65.0,69.0
+Ceuta,ambos sexos,De 70 a 74 años,0.0,70.0,74.0
+Ceuta,ambos sexos,De 75 a 79 años,0.0,75.0,79.0
+Ceuta,ambos sexos,De 80 a 84 años,0.0,80.0,84.0
+Ceuta,ambos sexos,De 85 a 89 años,0.0,85.0,89.0
+Ceuta,ambos sexos,De 90 a 94 años,0.0,90.0,94.0
+Ceuta,ambos sexos,De 95 años y más,0.0,,
+Ceuta,hombres,Todas las edades,1.0,,
+Ceuta,hombres,Menores de 15 años,0.0,,
+Ceuta,hombres,De 15 a 29 años,0.0,15.0,29.0
+Ceuta,hombres,De 30 a 39 años,0.0,30.0,39.0
+Ceuta,hombres,De 40 a 44 años,0.0,40.0,44.0
+Ceuta,hombres,De 45 a 49 años,0.0,45.0,49.0
+Ceuta,hombres,De 50 a 54 años,0.0,50.0,54.0
+Ceuta,hombres,De 55 a 59 años,1.0,55.0,59.0
+Ceuta,hombres,De 60 a 64 años,0.0,60.0,64.0
+Ceuta,hombres,De 65 a 69 años,0.0,65.0,69.0
+Ceuta,hombres,De 70 a 74 años,0.0,70.0,74.0
+Ceuta,hombres,De 75 a 79 años,0.0,75.0,79.0
+Ceuta,hombres,De 80 a 84 años,0.0,80.0,84.0
+Ceuta,hombres,De 85 a 89 años,0.0,85.0,89.0
+Ceuta,hombres,De 90 a 94 años,0.0,90.0,94.0
+Ceuta,hombres,De 95 años y más,0.0,,
+Ceuta,mujeres,Todas las edades,1.0,,
+Ceuta,mujeres,Menores de 15 años,0.0,,
+Ceuta,mujeres,De 15 a 29 años,0.0,15.0,29.0
+Ceuta,mujeres,De 30 a 39 años,0.0,30.0,39.0
+Ceuta,mujeres,De 40 a 44 años,0.0,40.0,44.0
+Ceuta,mujeres,De 45 a 49 años,0.0,45.0,49.0
+Ceuta,mujeres,De 50 a 54 años,0.0,50.0,54.0
+Ceuta,mujeres,De 55 a 59 años,1.0,55.0,59.0
+Ceuta,mujeres,De 60 a 64 años,0.0,60.0,64.0
+Ceuta,mujeres,De 65 a 69 años,0.0,65.0,69.0
+Ceuta,mujeres,De 70 a 74 años,0.0,70.0,74.0
+Ceuta,mujeres,De 75 a 79 años,0.0,75.0,79.0
+Ceuta,mujeres,De 80 a 84 años,0.0,80.0,84.0
+Ceuta,mujeres,De 85 a 89 años,0.0,85.0,89.0
+Ceuta,mujeres,De 90 a 94 años,0.0,90.0,94.0
+Ceuta,mujeres,De 95 años y más,0.0,,
+Melilla,ambos sexos,Todas las edades,1.0,,
+Melilla,ambos sexos,Menores de 15 años,0.0,,
+Melilla,ambos sexos,De 15 a 29 años,0.0,15.0,29.0
+Melilla,ambos sexos,De 30 a 39 años,0.0,30.0,39.0
+Melilla,ambos sexos,De 40 a 44 años,0.0,40.0,44.0
+Melilla,ambos sexos,De 45 a 49 años,0.0,45.0,49.0
+Melilla,ambos sexos,De 50 a 54 años,1.0,50.0,54.0
+Melilla,ambos sexos,De 55 a 59 años,0.0,55.0,59.0
+Melilla,ambos sexos,De 60 a 64 años,0.0,60.0,64.0
+Melilla,ambos sexos,De 65 a 69 años,0.0,65.0,69.0
+Melilla,ambos sexos,De 70 a 74 años,0.0,70.0,74.0
+Melilla,ambos sexos,De 75 a 79 años,0.0,75.0,79.0
+Melilla,ambos sexos,De 80 a 84 años,0.0,80.0,84.0
+Melilla,ambos sexos,De 85 a 89 años,0.0,85.0,89.0
+Melilla,ambos sexos,De 90 a 94 años,0.0,90.0,94.0
+Melilla,ambos sexos,De 95 años y más,0.0,,
+Melilla,hombres,Todas las edades,1.0,,
+Melilla,hombres,Menores de 15 años,0.0,,
+Melilla,hombres,De 15 a 29 años,0.0,15.0,29.0
+Melilla,hombres,De 30 a 39 años,0.0,30.0,39.0
+Melilla,hombres,De 40 a 44 años,0.0,40.0,44.0
+Melilla,hombres,De 45 a 49 años,0.0,45.0,49.0
+Melilla,hombres,De 50 a 54 años,1.0,50.0,54.0
+Melilla,hombres,De 55 a 59 años,0.0,55.0,59.0
+Melilla,hombres,De 60 a 64 años,0.0,60.0,64.0
+Melilla,hombres,De 65 a 69 años,0.0,65.0,69.0
+Melilla,hombres,De 70 a 74 años,0.0,70.0,74.0
+Melilla,hombres,De 75 a 79 años,0.0,75.0,79.0
+Melilla,hombres,De 80 a 84 años,0.0,80.0,84.0
+Melilla,hombres,De 85 a 89 años,0.0,85.0,89.0
+Melilla,hombres,De 90 a 94 años,0.0,90.0,94.0
+Melilla,hombres,De 95 años y más,0.0,,
+Melilla,mujeres,Todas las edades,0.0,,
+Melilla,mujeres,Menores de 15 años,0.0,,
+Melilla,mujeres,De 15 a 29 años,0.0,15.0,29.0
+Melilla,mujeres,De 30 a 39 años,0.0,30.0,39.0
+Melilla,mujeres,De 40 a 44 años,0.0,40.0,44.0
+Melilla,mujeres,De 45 a 49 años,0.0,45.0,49.0
+Melilla,mujeres,De 50 a 54 años,0.0,50.0,54.0
+Melilla,mujeres,De 55 a 59 años,0.0,55.0,59.0
+Melilla,mujeres,De 60 a 64 años,0.0,60.0,64.0
+Melilla,mujeres,De 65 a 69 años,0.0,65.0,69.0
+Melilla,mujeres,De 70 a 74 años,0.0,70.0,74.0
+Melilla,mujeres,De 75 a 79 años,0.0,75.0,79.0
+Melilla,mujeres,De 80 a 84 años,0.0,80.0,84.0
+Melilla,mujeres,De 85 a 89 años,0.0,85.0,89.0
+Melilla,mujeres,De 90 a 94 años,0.0,90.0,94.0
+Melilla,mujeres,De 95 años y más,0.0,,
+Extranjero,ambos sexos,Todas las edades,44.0,,
+Extranjero,ambos sexos,Menores de 15 años,0.0,,
+Extranjero,ambos sexos,De 15 a 29 años,9.0,15.0,29.0
+Extranjero,ambos sexos,De 30 a 39 años,10.0,30.0,39.0
+Extranjero,ambos sexos,De 40 a 44 años,3.0,40.0,44.0
+Extranjero,ambos sexos,De 45 a 49 años,6.0,45.0,49.0
+Extranjero,ambos sexos,De 50 a 54 años,5.0,50.0,54.0
+Extranjero,ambos sexos,De 55 a 59 años,1.0,55.0,59.0
+Extranjero,ambos sexos,De 60 a 64 años,3.0,60.0,64.0
+Extranjero,ambos sexos,De 65 a 69 años,4.0,65.0,69.0
+Extranjero,ambos sexos,De 70 a 74 años,1.0,70.0,74.0
+Extranjero,ambos sexos,De 75 a 79 años,0.0,75.0,79.0
+Extranjero,ambos sexos,De 80 a 84 años,1.0,80.0,84.0
+Extranjero,ambos sexos,De 85 a 89 años,1.0,85.0,89.0
+Extranjero,ambos sexos,De 90 a 94 años,0.0,90.0,94.0
+Extranjero,ambos sexos,De 95 años y más,0.0,,
+Extranjero,hombres,Todas las edades,37.0,,
+Extranjero,hombres,Menores de 15 años,0.0,,
+Extranjero,hombres,De 15 a 29 años,7.0,15.0,29.0
+Extranjero,hombres,De 30 a 39 años,8.0,30.0,39.0
+Extranjero,hombres,De 40 a 44 años,3.0,40.0,44.0
+Extranjero,hombres,De 45 a 49 años,5.0,45.0,49.0
+Extranjero,hombres,De 50 a 54 años,4.0,50.0,54.0
+Extranjero,hombres,De 55 a 59 años,1.0,55.0,59.0
+Extranjero,hombres,De 60 a 64 años,3.0,60.0,64.0
+Extranjero,hombres,De 65 a 69 años,3.0,65.0,69.0
+Extranjero,hombres,De 70 a 74 años,1.0,70.0,74.0
+Extranjero,hombres,De 75 a 79 años,0.0,75.0,79.0
+Extranjero,hombres,De 80 a 84 años,1.0,80.0,84.0
+Extranjero,hombres,De 85 a 89 años,1.0,85.0,89.0
+Extranjero,hombres,De 90 a 94 años,0.0,90.0,94.0
+Extranjero,hombres,De 95 años y más,0.0,,
+Extranjero,mujeres,Todas las edades,7.0,,
+Extranjero,mujeres,Menores de 15 años,0.0,,
+Extranjero,mujeres,De 15 a 29 años,2.0,15.0,29.0
+Extranjero,mujeres,De 30 a 39 años,2.0,30.0,39.0
+Extranjero,mujeres,De 40 a 44 años,0.0,40.0,44.0
+Extranjero,mujeres,De 45 a 49 años,1.0,45.0,49.0
+Extranjero,mujeres,De 50 a 54 años,1.0,50.0,54.0
+Extranjero,mujeres,De 55 a 59 años,0.0,55.0,59.0
+Extranjero,mujeres,De 60 a 64 años,0.0,60.0,64.0
+Extranjero,mujeres,De 65 a 69 años,1.0,65.0,69.0
+Extranjero,mujeres,De 70 a 74 años,0.0,70.0,74.0
+Extranjero,mujeres,De 75 a 79 años,0.0,75.0,79.0
+Extranjero,mujeres,De 80 a 84 años,0.0,80.0,84.0
+Extranjero,mujeres,De 85 a 89 años,0.0,85.0,89.0
+Extranjero,mujeres,De 90 a 94 años,0.0,90.0,94.0
+Extranjero,mujeres,De 95 años y más,0.0,,
