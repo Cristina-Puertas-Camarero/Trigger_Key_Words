@@ -105,9 +105,13 @@ pagina = st.sidebar.radio(
 )
 
     
-
+    
+    
 # Pagina 1 Presentación
 if pagina == "🏠 Presentation":
+    st.image("kurt.png", caption="This image has been created with Canva", width= 500)
+    
+    
     st.title("Trigger Key Words")
     st.subheader("Analyzing patterns and proposing innovative strategies to tackle one of the most pressing challenges in public health.")
 
@@ -430,7 +434,13 @@ elif pagina == "🛠️ Machine Learning ":
     ax.set_xlabel("Model", fontsize=12)
     plt.xticks(rotation=0, fontsize=12)
     st.pyplot(fig)
-
+    # Legend block for the graph
+    st.markdown("""
+    **Legend**:  
+    - **Accuracy**: Represents the overall correctness of the model's predictions. .  
+    - **Macro F1-Score**: Averages the F1-scores of all classes, treating them equally regardless of imbalance.   
+    - **Weighted Average**: The F1-score calculated with consideration for class weights.   
+    """)
     # Prediction Distribution for Selected Model (LightGBM)
     st.subheader("4. Prediction Distribution for LightGBM Model")
     predictions = pd.DataFrame({
@@ -556,6 +566,24 @@ elif pagina == "📜 Conclusions and Reflections":
 
     st.image("images (2).png", caption="Prevention is everyone’s responsibility", width=200)
     
+    # Subtitle
+    st.subheader("📲 A Step Towards Suicide Prevention")
+
+    # Description with Visual Formatting
+    st.markdown("""
+    **The ultimate goal of this project** is to implement our algorithm in real-time across social media platforms such as:  
+
+    - 📱 **WhatsApp**  
+    - 📸 **Instagram**  
+
+    This would enable effective detection of warning signs related to suicide. Our approach aims to:  
+    - **Identify alerts**, not only for the affected individuals themselves but also for their **friends and family**.  
+    - **Enable early intervention** in critical situations.  
+    - **Help prevent potential tragedies** before they unfold.  
+
+    With the power of **data analysis** and **machine learning**, we strongly believe in technology's potential to make a positive impact and save lives. 🌍💡
+    """)
+
     # Academic Disclaimer
     st.markdown("### 📚 Academic Disclaimer")
     st.markdown("""
