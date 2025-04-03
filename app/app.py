@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
+from PIL import Image
 
 # Configurar la página 
 st.set_page_config(
@@ -378,9 +379,10 @@ elif pagina == "🛠️ Machine Learning ":
 
     These steps ensure a robust and accurate classification process.
     """)
-
+    
     st.image("images.png", caption="talking about suicide is not suicide", width=200)
-
+    
+    
     # Data Preparation
     st.subheader("1. Data Preparation")
     st.markdown("""
@@ -391,7 +393,73 @@ elif pagina == "🛠️ Machine Learning ":
     - **Numerical Representation**:
         - Transformation of textual data using techniques such as **TF-IDF**.
     """)
+     # Divide the page into two columns
+    col1, col2 = st.columns(2)
+    
+    # Column 1: Content
+    with col1:
+        st.markdown("### Stop Words Processing")
+        
+        st.markdown("""
+        
+        Before tokenization, we identify and remove **stop words**, 
+        which are common words that do not provide meaningful insight for analysis. 
 
+        This process helps reduce noise in the data and focuses on identifying significant patterns, 
+        ultimately improving the model's effectiveness and precision.
+        """)
+
+    # In the second column, insert the image with specific dimensions
+    with col2:
+        st.markdown("### Data Processing")  # Optional title in the column
+        # Load the image
+        image = Image.open("output1.png")
+        # Resize the image to ID card dimensions (approximately)
+        image = image.resize((380, 220))  # Adjust dimensions as needed
+        st.image(image, caption="Most common words in suicidal texts", use_container_width=False)
+     # Data for suicidal and non-suicidal words
+    suicidal_words = [
+        ('want', 15457), ('feel', 12285), ('life', 12150), ('know', 11670), ('cant', 10923),
+        ('ive', 10703), ('even', 7438), ('people', 7283), ('time', 6522), ('would', 6510),
+        ('think', 6271), ('never', 5476), ('help', 5413), ('much', 5313), ('anymore', 5071),
+        ('friends', 5000), ('die', 4789), ('years', 4594), ('kill', 4420), ('suicide', 4367),
+        ('fucking', 4323), ('end', 4227), ('day', 4185), ('way', 4040), ('live', 4035),
+        ('anything', 3968)
+    ]
+
+    non_suicidal_words = [
+        ('know', 3623), ('people', 3340), ('want', 2798), ('time', 2307),
+        ('feel', 2214), ('would', 2207), ('even', 2192), ('think', 2189),
+        ('got', 2085), ('ive', 2031), ('day', 1983), ('friends', 1909), ('cant', 1857),
+        ('help', 1607)
+        
+        
+    ]
+
+    # Convert data to dataframes
+    suicidal_df = pd.DataFrame(suicidal_words, columns=['Word', 'Frequency'])
+    non_suicidal_df = pd.DataFrame(non_suicidal_words, columns=['Word', 'Frequency'])
+
+    # Merge data into one dataframe for comparison
+    comparison_df = pd.merge(
+        suicidal_df.rename(columns={'Frequency': 'Suicidal'}),
+        non_suicidal_df.rename(columns={'Frequency': 'Non-Suicidal'}),
+        on='Word',
+        how='outer'
+    ).fillna(0)
+
+    # Plot comparative bar chart
+    fig, ax = plt.subplots(figsize=(10, 6))
+    ax.bar(comparison_df['Word'], comparison_df['Suicidal'], label='Suicidal', color='#66c2a5', alpha=0.8)  # Turquoise-like (Set2)
+    ax.bar(comparison_df['Word'], comparison_df['Non-Suicidal'], label='Non-Suicidal', color='#fc8d62', alpha=0.8)  # Salmon-like (Set2)
+    ax.set_xlabel("Words")
+    ax.set_ylabel("Frequency")
+    ax.set_title("Word Frequency Comparison: Suicidal vs Non-Suicidal Texts")
+    ax.legend()
+    plt.xticks(rotation=45)
+
+    # Display results
+    st.pyplot(fig)
     # Evaluated Models
     st.subheader("2. Evaluated Models")
     st.markdown("""
