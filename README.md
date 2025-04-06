@@ -3,6 +3,8 @@
 ## Project Description
 Suicide is one of the leading causes of mortality worldwide and an urgent public health issue. Many individuals at risk express warning signs through their words, whether in conversations, social media, or writings. However, these messages often go unnoticed, leaving those in need without the necessary intervention.
 
+![clipping_30Jebg_5288.webp]("app\clipping_30Jebg_5288.webp")
+
 This project leverages **Natural Language Processing (NLP)** algorithms to identify key words associated with suicide risk in texts. The main objective is to contribute to **suicide prevention** by enabling early detection of these signals, facilitating a faster and more effective response. By combining data analysis, predictive modeling, and an interactive application, this project aims to generate value in academic research and potential practical applications.
 
 ---
@@ -41,14 +43,7 @@ The project is organized modularly to ensure clarity and efficient management. H
 - **Data Analysis**:  
   - `1_Visualización_data.ipynb`, `2_Limpieza.ipynb`.  
 - **Machine Learning**:  
-  - `1_Preparación y Exploración de Datos.ipynb`, `5_Entrenamiento del Modelo.ipynb`, and more.  
-
----
-
-### 📂 `reports/`
-📈 **Reports and conclusions**  
-- Stores results and visualizations generated during data analysis:  
-  - Clear graphs and detailed reports.  
+  - `1_Preparación y Exploración de Datos.ipynb`, `5_Entrenamiento del Modelo.ipynb`, and more.   
 
 ---
 
