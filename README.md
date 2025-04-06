@@ -6,7 +6,6 @@ Suicide is one of the leading causes of mortality worldwide and an urgent public
 ![Ilustración Javirroyo](https://github.com/tu-usuario/Trigger_Key_Words/blob/master/app/clipping_30Jebg_5288.webp)
 
 This project leverages **Natural Language Processing (NLP)** algorithms to identify key words associated with suicide risk in texts. The main objective is to contribute to **suicide prevention** by enabling early detection of these signals, facilitating a faster and more effective response. By combining data analysis, predictive modeling, and an interactive application, this project aims to generate value in academic research and potential practical applications.
-
 ---
 ## 🗂️ **Project Structure**
 The project is organized modularly to ensure clarity and efficient management. Here's the main structure:
