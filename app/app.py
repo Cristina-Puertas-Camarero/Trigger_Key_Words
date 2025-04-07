@@ -123,7 +123,7 @@ if pagina == "🏠 Presentation":
     st.subheader("Analyzing patterns and proposing innovative strategies to tackle one of the most pressing challenges in public health.")
 
     # Imagen principal
-    st.image("clipping_30Jebg_5288.webp", caption="Autor Javirroyo", use_container_width=True)
+    st.image("clipping_30Jebg_5288.png", caption="Autor Javirroyo", use_container_width=True)
     
     # Descripción principal con texto resaltado en azul oscuro
     st.markdown("""
@@ -176,7 +176,7 @@ if pagina == "🏠 Presentation":
         """)
 
     # Imagen secundaria sólo al final
-    st.image("643945903_221240743_1706x1676.webp", caption="Not talking about suicide is a form of suicide", use_container_width=True)
+    st.image("643945903_221240743_1706x1676.png", caption="Not talking about suicide is a form of suicide", use_container_width=True)
 
 # Página 2: Análisis de Datos
 elif pagina == "📊 Data Analysis":
