@@ -1,4 +1,13 @@
 import streamlit as st
+import sys
+import subprocess
+
+try:
+    import matplotlib.pyplot as plt
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
+    import matplotlib.pyplot as plt
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -110,9 +119,6 @@ pagina = st.sidebar.radio(
     
 # Pagina 1 Presentación
 if pagina == "🏠 Presentation":
-    st.image("kurt.png", caption="This image has been created with Canva", width= 500)
-    
-    
     st.title("Trigger Key Words")
     st.subheader("Analyzing patterns and proposing innovative strategies to tackle one of the most pressing challenges in public health.")
 

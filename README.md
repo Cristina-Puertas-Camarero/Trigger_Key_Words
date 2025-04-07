@@ -3,55 +3,50 @@
 ## Project Description
 Suicide is one of the leading causes of mortality worldwide and an urgent public health issue. Many individuals at risk express warning signs through their words, whether in conversations, social media, or writings. However, these messages often go unnoticed, leaving those in need without the necessary intervention.
 
-![Ilustración Javirroyo](https://github.com/Cristina-Puertas-Camarero/Trigger_Key_Words/blob/master/app/clipping_30Jebg_5288.webp)
 
 This project leverages **Natural Language Processing (NLP)** algorithms to identify key words associated with suicide risk in texts. The main objective is to contribute to **suicide prevention** by enabling early detection of these signals, facilitating a faster and more effective response. By combining data analysis, predictive modeling, and an interactive application, this project aims to generate value in academic research and potential practical applications.
----
-## 🗂️ **Project Structure**
-The project is organized modularly to ensure clarity and efficient management. Here's the main structure:
-
-### 📂 `app/`
-🚀 **Where the magic happens**  
-- Contains the main `app.py` file, which implements the interactive application using **Streamlit**.  
-- Enables intuitive exploration of data analysis results and model predictions.  
 
 ---
 
-### 📂 `data/`
-📊 **Original datasets**  
-- Stores the raw data used in the project:
-  - `Clasificacion_textos_suicido.csv`: Categorized messages related to suicide risk.  
-  - `Clasificacion_tweers_suicidio.csv`: Processed tweets related to the topic.  
-  - `Demografía_Residencia_Suicidio.csv`: Demographic and residence information.  
-  - `Salud_Mental_Entorno_Laboral.csv`: Data on mental health in the workplace.  
-  - Other complementary files for analysis.
+## Project Structure
+The project is modularly organized to facilitate understanding and management:
 
----
+### `app/`
+- Contains the `app.py` file, which implements an interactive application using **Streamlit**.
+- Allows intuitive visualization and exploration of data analysis results and model predictions.
 
-### 📂 `data_limpio/`
-🧽 **Cleaned and processed data**  
-- Contains datasets prepared for analysis and predictive modeling:  
-  - Example: `Clasificacion_textos_suicido_Limpio.csv`.  
-  - Tokenized versions and other formats representing various stages of data processing.  
-- Lightweight, uncompressed files for quick access.  
+### `data/`
+- Stores the original datasets used in the project:
+  - `Clasificacion_textos_suicido.csv`: Categorized messages related to suicide risk.
+  - `Clasificacion_tweers_suicidio.csv`: Processed tweets related to the topic.
+  - `Demografía_Residencia_Suicidio.csv`: Demographic and residence information.
+  - `Salud_Mental_Entorno_Laboral.csv`: Data on mental health in the workplace.
+  - Other relevant files complementing the analysis.
 
----
+### `data_limpio/`
+- Contains processed and cleaned datasets ready for analysis and predictive modeling:
+  - Examples include `Clasificacion_textos_suicido_Limpio.csv` and tokenized versions representing different stages of data processing.
+  - Lightweight files required for direct analysis remain uncompressed for easier access.
 
-### 📂 `notebooks/`
-📖 **Organized Jupyter Notebooks**  
-- **Data Analysis**:  
-  - `1_Visualización_data.ipynb`, `2_Limpieza.ipynb`.  
-- **Machine Learning**:  
-  - `1_Preparación y Exploración de Datos.ipynb`, `5_Entrenamiento del Modelo.ipynb`, and more.   
+### `notebooks/`
+- Jupyter notebooks organized by purpose:
+  - **Data Analysis**:
+    - `1_Visualización_data.ipynb`, `2_Limpieza.ipynb`, etc.
+  - **Machine Learning**:
+    - `1_Preparación y Exploración de Datos.ipynb`, `5_Entrenamiento del Modelo.ipynb`, among others.
 
----
+### `reports/`
+- Stores results and conclusions, such as:
+  - Generated reports.
+  - Visuals and graphs from data analysis.
 
-### 📂 `scripts/`
-🔧 **Reusable tools**  
-- Scripts for common tasks, such as:  
-  - Data preprocessing.  
-  - Model training.  
-  - Visualization tools.  
+### `scripts/`
+- Reusable scripts for common tasks such as:
+  - Data preprocessing.
+  - Model training.
+  - Visualization tools.
+
+- **`README.md`**: Document describing the project’s purpose and structure.
 
 ---
 

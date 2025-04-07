@@ -8,20 +8,6 @@ seaborn
 plotly
 statsmodels
 pillow
-streamlit-ace
-streamlit-aggrid
-streamlit-option-menu
-streamlit-lottie
-streamlit-plotly-events
-streamlit-drawable-canvas
-streamlit-extras
-streamlit-embeds
-streamlit-analytics
-streamlit-logger
-streamlit-plotly-chart
-streamlit-graphviz
-streamlit-plotly-events
-streamlit-plotly-chart
-streamlit-plotly-events
+
 
 
